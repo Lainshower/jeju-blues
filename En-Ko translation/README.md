@@ -7,7 +7,7 @@
 
 ## Training
 - STEP 0. Download dataset
-    - Download AIhub dataset
+    - [Download AIhub dataset](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=126)
         - 한국어-영어 번역 말뭉치(구어체, 대화체)
     - extract Netflix dataset using Language Learning with Netflix
         - Focusing on daily life movies and dramas(Friends, Eternal sunshine, etc.)
