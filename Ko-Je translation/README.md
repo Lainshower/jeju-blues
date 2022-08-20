@@ -1,4 +1,7 @@
 # Jejueo-Korean Machine Translation with JIT dataset & AIhub dataset
+## Datasest
+[JIT Dataset](https://www.kaggle.com/datasets/bryanpark/jit-dataset)
+
 ## Requirements
 - python >= 3.6
 - NumPy >= 1.11.1
@@ -58,3 +61,10 @@
 --sys prediction/gen.out.sys \
 --ref prediction/gen.out.ref
 ```
+## Citation
+@article{park2019jejueo,  
+  title={Jejueo Datasets for Machine Translation and Speech Synthesis},  
+  author={Park, Kyubyong and Choe, Yo Joong and Ham, Jiyeon},  
+  journal={arXiv preprint arXiv:1911.12071},  
+  year={2019}  
+}
