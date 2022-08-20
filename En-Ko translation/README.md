@@ -36,6 +36,3 @@
 
 - STEP 4. Evaluation
     - BLEU score : 15.55
-```python
-!python Evaluate.py 
-```
