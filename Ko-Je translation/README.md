@@ -66,5 +66,4 @@
   title={Jejueo Datasets for Machine Translation and Speech Synthesis},  
   author={Park, Kyubyong and Choe, Yo Joong and Ham, Jiyeon},  
   journal={arXiv preprint arXiv:1911.12071},  
-  year={2019}  
-}
+  year={2019}  }
