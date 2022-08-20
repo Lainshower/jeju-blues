@@ -67,3 +67,6 @@
   author={Park, Kyubyong and Choe, Yo Joong and Ham, Jiyeon},  
   journal={arXiv preprint arXiv:1911.12071},  
   year={2019}  }
+
+## Reference
+https://github.com/kakaobrain/jejueo.git
