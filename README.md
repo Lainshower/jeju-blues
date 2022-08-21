@@ -51,7 +51,7 @@ transformer|JIT|44.47|
 [SUYEON JEONG](https://github.com/fromslow)|[JONGHYUN HONG](https://github.com/jody1188) | [SEUNG JU LEE](https://github.com/) | [SUJIN LIM](https://github.com/sujjin)
 Eng-Kor Translate|Eng-Kor Translate|Kor-Jeju dialect Translate|Kor-Jeju dialect Translate|
 
-![image](https://user-images.githubusercontent.com/68999203/185738871-94b76735-a24c-43f3-a735-03b6c8f9ae1a.png)|![image](https://user-images.githubusercontent.com/68999203/185738900-e9c9ff04-59cd-4483-aac7-5487ae64e187.png)|![image](https://user-images.githubusercontent.com/68999203/185738890-a850e71d-c483-48ff-a684-37e9a43d8f1b.png)|
+![image](https://user-images.githubusercontent.com/68999203/185738871-94b76735-a24c-43f3-a735-03b6c8f9ae1a.png)|![image](https://user-images.githubusercontent.com/68999203/185738890-a850e71d-c483-48ff-a684-37e9a43d8f1b.png)|![image](https://user-images.githubusercontent.com/68999203/185738900-e9c9ff04-59cd-4483-aac7-5487ae64e187.png)|
 ---|---|---|
 [JOONWON JANG](https://github.com/Lainshower)|[KEONWOO KIM](https://github.com/gunny97)|[MINJIN JEON](https://github.com/minjin-jeon)|
 TTS|TTS|TTS|
