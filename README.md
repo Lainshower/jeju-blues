@@ -7,10 +7,10 @@ JEJU-BLUES
 **JEJU-BLUES는 영어 문장을 입력으로 받아, 제주도 사투리로 읽어주는 프레임워크입니다.**
 
 ### JEJU-BLUES 모델 구조
-- 영어-한국어(표준어) : mBART-large-cc25 finetuned with Netflix eng-kor script, AI-HUB 구어체 데이터
-- 한국어(표준어)-제주도 사투리 : transformer trained with JIT dataset
-- 제주도 사투리(text)-mel_spectogram : GlowTTS trained with JSS dataset
-- mel_spectogram-제주도 사투리 음성(wav) : HiFiGAN trained with JSS dataset
+- 영어-한국어(표준어) : mBART-large-cc25 finetuned on Netflix eng-kor script, AI-HUB 구어체 데이터
+- 한국어(표준어)-제주도 사투리 : transformer trained on JIT dataset
+- 제주도 사투리(text)-mel_spectogram : GlowTTS trained on JSS dataset
+- mel_spectogram-제주도 사투리 음성(wav) : HiFiGAN trained on JSS dataset
 
 ### JEJU-BLUES 모델 특징
 - 한 문장씩 받아서 제주도 음성으로 변환합니다.
@@ -33,7 +33,7 @@ transformer|JIT|44.47|
 ### 학습 모델 파일
 - [mBART-large-cc25 finetuned with Netflix eng-kor script, AI-HUB 구어체 데이터](https://drive.google.com/drive/folders/1-kkk5d2vFzghxPRDuvkKB2dneR16bxOx?usp=sharing)
 - [transformer trained with JIT dataset](https://drive.google.com/file/d/11EIMiCl2-c9o6gq3kPVGyFdGYPZnToh5/view?usp=sharing)
-- [GlowTTS trained with JSS dataset]
+- [GlowTTS trained with JSS dataset](https://drive.google.com/drive/folders/1sP-UDISMK_qiEZ198eH8QMdNFwG0VNet?usp=sharing)
 - [HiFiGAN trained with JSS dataset](https://drive.google.com/drive/folders/1AZw5xjjQqOhfUuyre0yPCKyQrVN6yOEW?usp=sharing)
 
 ### JEJU-BLUES 관련 자료
